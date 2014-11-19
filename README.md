@@ -34,6 +34,10 @@ Hello!
 source-highlight --lang-list
 ```
 
+## Install
+
+Put `source /path/to/cat.fish` to your config file or simply leave the file (or a link to it) in `~/.config/fish/functions` and Fish will grab it.
+
 ## License
 
 MIT
