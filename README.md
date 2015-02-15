@@ -36,7 +36,9 @@ source-highlight --lang-list
 
 ## Install
 
-Put `source /path/to/cat.fish` to your config file or simply leave the file (or a link to it) in `~/.config/fish/functions` and Fish will grab it.
+[![npm](https://nodei.co/npm/fish-cat-highlighted.png)](https://nodei.co/npm/fish-cat-highlighted/)
+
+or simply put the script to your `~/.config/fish/functions/` or source it elsewise.
 
 ## License
 
